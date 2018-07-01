@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Oral Health Quiz</string>
+    <string name="qu">BRUSHING GUIDE</string>
+    <string name="fds">RIGHT FOODS</string>
+    <string name="your">Your</string>
+    <string name="health">HEALTH</string>
+    <string name="quiz">Quiz</string>
+    <string name="button">START QUIZ</string>
+    <string name="edit">Enter your name here</string>
+    <string name="qsecttion">QUIZ SECTION</string>
+    <string name="pipsection">TIPS SECTION</string>
+    <string name="food">FOODS SECTION</string>
+    <string name="brush">PROPER BRUSHING</string>
+    <string name="here">WELCOME!! </string>
+    <string name="brush_well">These are the 6
+    short steps for proper brushing!!
+    </string>
+    <string name="fruits_food">The following are recommended for your healthy teeth</string>
+    <string name="start">HOME</string>
+    <string name="apps">Apples are high in fiber and water.
+        Eating an apple produces saliva in your mouth,
+        which rinses away bacteria
+        and food particles.
+        </string>
+    <string name="carrots">
+        Carrots are crunchy and full of fiber.
+        Eating a handful of raw carrots at the end of the meal
+        increases saliva production in your mouth,
+        which reduces your risk of cavities. </string>
+    <string name="cheese">Eating cheese raises the pH in the
+        mouths and lowers the risk of tooth decay.
+        Cheese also contains calcium and protein,
+        nutrients that strengthen tooth enamel.</string>
+    <string name="greens">Leafy greens such as kale and spinach also promote oral health.
+        They are high in calcium, which builds the enamel.
+        They also contain folic acid, a type of B vitamin that has numerous health benefits,
+        including possibly treating gum disease in pregnant women</string>
+    <string name="ds">Good oral hygiene and regular visits to the dentist will help you maintain healthy teeth and gums.
+
+Here are some tips to help you look after your teeth.
+</string>
+    <string name="sb">submit</string>
+    <string name="ff">Tip 1. Brush at least twice a day</string>
+    <string name="fg">The best time to brush teeth is after meals.
+        Choose a toothbrush with a small head for better access to back teeth.
+        Soft bristles are kinder on your gums.</string>
+    <string name="paste">Tip 2. Use fluoridated toothpaste.</string>
+    <string name="rd">Fluoride helps to harden tooth enamel and reduces your risk of decay.</string>
+    <string name="bt">Tip 3. Brush thoroughly.</string>
+    <string name="bd">Tooth brushing should take between two and three minutes.</string>
+    <string name="floss">Tip 4. Floss your teeth daily.</string>
+    <string name="fd">Use a slow and gentle sawing motion.</string>
+    <string name="limit">Tip 5.	Limit acidic drinks like soft drinks, cordials and fruit juices.</string>
+    <string name="limits">Food acids soften tooth material and dissolve the minerals in tooth enamel,causing holes (cavities or caries).
+        In severe cases, teeth may be ‘eaten’ right down to the gum.</string>
+    <string name="tt">Quiz 1:Dentists recommend that you brush your teeth?</string>
+    <string name="td">Twice a day</string>
+    <string name="tad">After each and every meal</string>
+    <string name="wy">When you start getting a funny taste in your mouth</string>
+    <string name="ip">Its a personal preference and varies among people</string>
+    <string name="qz2">Quiz 2: Next to bacterially caused gum disease the next most common cause of gum disease is?</string>
+    <string name="acc">Accidents such as football injuries, car crashes, falls.</string>
+    <string name="si">Self-inflicted brushing trauma</string>
+    <string name="eh">Eating hot and spicy foods</string>
+    <string name="sc">Smoking cigarettes and eating chewing tobacco</string>
+    <string name="pt">Quiz 3: How many permanent teeth do adults have (no cheating - do not count) ?</string>
+    <string name="t8">28</string>
+    <string name="t6">36</string>
+    <string name="T6">26</string>
+    <string name="T2">32</string>
+    <string name="qz4">Quiz 4: Which one of the following can be a factor in causing bad breath ?</string>
+    <string name="dm">Dry Mouth</string>
+    <string name="dt">Dieting</string>
+    <string name="Hm">Hormone fluctuations</string>
+    <string name="Na">Non of the above</string>
+</resources>
