@@ -1,0 +1,2 @@
+# Quiz-App-Project
+This is a health quiz app. The questions are on oral health related problems. The app also helps a user to get tips on how to maintain strong teeth and fresh mouth by providing them with Tips on how to keep safe and sound.The app also provides the user with a short list of food they can eat to keep healthy teeth. The link to the app is    https://drive.google.com/open?id=1Io1opgtYCIvgBWPHyX5alwoe1ixDAhgP
